@@ -6,4 +6,5 @@ Having trouble installing anaconda on my Arch Linux, so that's a portable/fricti
 
 I'm doing this repo to follow through with [this tutorial](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html)
 
-Open the notebooks by clicking here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shaolin-peanut/my_first_binder/HEAD)
+Open the notebooks by clicking on the button below
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shaolin-peanut/my_first_binder/HEAD)
